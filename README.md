@@ -5,9 +5,9 @@ Software Developer
 I am a software developer with 1 years of experience with backend development and 1 year of experience Q/A Automation. I have worked with Spring Boot, .NET Framework and Django on both personal and professional projects.
 
 * 🌍  I'm based in Waterloo, Canada
-* ✉️  You can contact me at [cyptran@uwaterloo.ca](mailto:cyptran@uwaterloo.ca)
+* ✉️  You can contact me at [cyptran14@gmail.ca](mailto:cyptran14@gmail.ca)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on interesting projects* 
+* 🤝  I'm open to collaborating on interesting projects*
 * ⚡  I really want to play Dungeons and Dragons
 
 ### Skills
